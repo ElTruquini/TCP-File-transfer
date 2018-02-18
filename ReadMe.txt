@@ -1,0 +1,1 @@
+Develop a client/server program for file transfer/processing based on Stream (TCP) sockets. Server listens an a given IP/PORT which become the input arguments for client.
